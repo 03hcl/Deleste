@@ -1,0 +1,10 @@
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Release\SerializerForMusicGame.exe.config
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Release\SerializerForMusicGame.exe
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Release\SerializerForMusicGame.pdb
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Release\StyleCop.dll
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Release\StyleCop.xml
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Release\SerializerForMusicGame.csprojAssemblyReference.cache
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Release\SerializerForMusicGame.csproj.CoreCompileInputs.cache
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Release\SerializerForMusicGame.csproj.CopyComplete
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Release\SerializerForMusicGame.exe
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Release\SerializerForMusicGame.pdb

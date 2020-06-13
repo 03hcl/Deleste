@@ -1,0 +1,3 @@
+<StyleCopViolations>
+  <Violation Section="Root.SerializerForMusicGame.Serializer.SendToArduino%string%IEnumerable`char" LineNumber="232" Source="E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\Serializer.cs" RuleNamespace="StyleCop.CSharp.LayoutRules" Rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" RuleId="SA1500">If a statement spans multiple lines, the closing curly bracket must be placed on its own line.</Violation>
+</StyleCopViolations>

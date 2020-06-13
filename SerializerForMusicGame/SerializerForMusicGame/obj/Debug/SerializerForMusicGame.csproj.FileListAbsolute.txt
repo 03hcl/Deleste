@@ -1,0 +1,10 @@
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Debug\SerializerForMusicGame.exe.config
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Debug\SerializerForMusicGame.exe
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Debug\SerializerForMusicGame.pdb
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Debug\StyleCop.dll
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\bin\Debug\StyleCop.xml
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Debug\SerializerForMusicGame.csproj.CoreCompileInputs.cache
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Debug\SerializerForMusicGame.csproj.CopyComplete
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Debug\SerializerForMusicGame.exe
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Debug\SerializerForMusicGame.pdb
+E:\OneDrive\Development\Visual Studio 2017\Projects\SerializerForMusicGame\SerializerForMusicGame\obj\Debug\SerializerForMusicGame.csprojAssemblyReference.cache

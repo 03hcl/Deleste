@@ -1,0 +1,87 @@
+﻿% お願い！シンデレラ
+% (REGULAR)
+%
+%comments
+
+#define    0      
+#define XBLANxxx (dummy)
+#define -blanktest
+
+#define 1 1 TAP
+#define    22
+#define  3 3TAP
+#define 44tap
+#define    5   5    tapaaaaaaa
+#define A 1 HOLD_ON
+#define B2ontest
+#define C3hold_on
+#define D4    HOLDON
+#define E5ON
+#define a 1 HOLD_OFF
+#define b 2 HOLDOFF
+#define c 3hold_off
+#define d 4holdoffaaaaa
+#define e 5 HOLD_OFF
+
+#bpm 123.456abc
+#bpm 175
+%#bpm 240
+#beats 4
+    
+#delay 1000
+
+%%%% 頭サビ %%%%%%%%%%%%
+
+0000
+4240
+5150
+1524
+2Cc0
+%|1524|2Cc0|
+2004000C
+00c3
+50400142
+04242000
+
+%%%% 間奏 %%%%%%%%%%%%%%
+
+|3[25]0[14]|0[25]0[14]|0[25]0[14]|0[25]0[14]|
+|0[35]0[13]|0[35]0[13]|0[35]0[13]|0330C0c0
+
+
+%%%% Aメロ %%%%%%%%%%%%%
+
+0020250D
+00d02040
+20240405
+00420000
+0020240D
+00d02040
+40042002
+405B00b0
+
+3[24]3[24]
+3[24]33
+3[24]3[24]
+3[24]33
+3[24]3[24]
+3[24]33
+|C00c2004|
+2450
+
+%%%% Bメロ %%%%%%%%%%%%%
+
+50022050
+10044010
+50022050
+[15]0000424
+00105024
+04151040
+C000c002
+05353000
+
+%%%% サビ %%%%%%%%%%%%%%
+
+D0B0
+
+
